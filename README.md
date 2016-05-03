@@ -1,5 +1,5 @@
 # KnotenSchieber
-Erzeugt eine Liste mit allen Knoten für die fastd Blacklist. Knoten könne  so auf andere Server geschoben werden.
+Erzeugt eine Liste mit allen Knoten für die fastd Blacklist. Knoten können  so auf andere Server geschoben werden.
 
 Kommando:
 ```
